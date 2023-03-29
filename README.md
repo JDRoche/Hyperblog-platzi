@@ -8,3 +8,5 @@ Bolg de curso git platzi
 
 * Comandos git
 * Creado por platzi team
+* incluye ejemplos en otros so
+* Disponible todas las edades
